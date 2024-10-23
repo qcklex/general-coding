@@ -1,0 +1,259 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alex",
+      "surnames": "Muñoz Rueda",
+      "title": "Sound Technician turned passionate Software Engineer",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/23/9906ef1e-2330-4ee0-98d6-9047bef02b94_profile-picture.jpg",
+        "alt": "Profile picture.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJIyaYpQC4h0gRJxfnfHsU8mQ)",
+        "country": "Reino Unido",
+        "region": "Escocia",
+        "municipality": "Edimburgo"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alex-munoz-rueda-51b413156/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "CS50x: Introduction to the Intellectual Enterprises of Computer Science and the Art of Programming",
+        "startDate": "2024-07-01",
+        "institution": {
+          "name": "Harvard University ",
+          "URL": "https://certificates.cs50.io/6df215b1-1be1-448e-b399-41772fbd1178.pdf?size=letter",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/23/c0a5b660-933d-475e-bfc3-1430c1d6d8c8_image-23-10-2024-at-.jpeg",
+            "alt": "Image 23-10-2024 at 10.32.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Flask",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "HNC/HND, Sound Production",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Curva Polar"
+        },
+        "finishDate": "2018-06-30"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/alex-munoz-rueda-51b413156/",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AJAX",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ]
+  }
+}
